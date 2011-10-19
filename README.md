@@ -1,0 +1,1 @@
+I came across an interesting Unobtrusive Server-side Script (USS) called hQuery. This is an attempt to create something similar for the PHP world.
